@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "मुल्य",
+        "freeuntil": "निशुल्क date",
+        "morelinks": "अन्य लिंक",
+        "supportserver": "सर्वर समर्थन",
+        "invitebot": "बॉट को आमंत्रित करें",
+        "getit-browser": "गेम प्राप्त करें ~ ब्राउजर",
+        "ratings": "मूल्यांकन"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "त्रुटि x इस चैनल में 10 वेबहुक हैं, कृपया मेरे संचालन के लिए एक को हटा दें।",
+        "cantcreatemissperms": "त्रुटि ❌ मैं इस चैनल के लिए वेबहुक नहीं बना सकता। अनुमति नहीं है |",
+        "missingviewchannel": "त्रुटि ❌ {channel} में अनुपलब्ध अनुमतियाँ। चैनलदेखें या संदेशभेजें",
+        "missingwebhookperms": "त्रुटि ❌ मेरे पास इस चैनल में MANAGE_WEBHOOKS अनुमतियां नहीं हैं।"
+        }]
+
+}
