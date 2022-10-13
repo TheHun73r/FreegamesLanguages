@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Pris",
+        "freeuntil": "Gratis Tills",
+        "morelinks": "Fler länkar",
+        "supportserver": "Hjälp-Server",
+        "invitebot": "Bjud in boten",
+        "getit-browser": "Få den-Webbläsare",
+        "ratings": "Betyg"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Fel :x: Det finns 10 webhooks i denna kanalen, radera en för att ’låta mig arbeta.’ / ’jag ska kunna fungera’. ",
+        "cantcreatemissperms": "Fel :x: Jag kan inte skapa en webhook för den här kanalen. Saknar åtkomster.",
+        "missingviewchannel": "Fel :x: Saknar åtkomster i {channel} ‘’VISA_KANAL’’ eller ‘’SKICKA_MEDDELANDEN’’",
+        "missingwebhookperms": "Fel :x:, Jag har inte ‘’HANTERA_WEBHOOKS’’ åtkomst i denna kanal."
+        }]
+
+}
