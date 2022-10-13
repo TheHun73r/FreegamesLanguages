@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Preis",
+        "freeuntil": "Kostenlos bis",
+        "morelinks": "Weitere Links",
+        "supportserver": "Support Server",
+        "invitebot": "Bot einladen",
+        "getit-browser": "Im Browser öffnen",
+        "ratings": "Bewertung"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Fehler :x: Dieser hat Kanal bereits ``10/10`` WebHooks. Bitte entferne einen, damit Benachrichtigungen funktionieren.",
+        "cantcreatemissperms": "Fehler :x: WebHook konnte nicht erstellt werden. Fehlende Berechtigungen",
+        "missingviewchannel": "Fehler :x: Fehlende Berechtigungen in {channel}: ``Kanal anzeigen`` oder ``Nachrichten senden``",
+        "missingwebhookperms": "Fehler :x: Fehlende ``WebHooks verwalten`` Berechtigung in diesem Kanal."
+        }]
+
+}
