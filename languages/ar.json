@@ -1,19 +1,19 @@
 {
     "singlewords":[{
-        "price": "",
-        "freeuntil": "",
-        "morelinks": "",
-        "supportserver": "",
-        "invitebot": "",
-        "getit-browser": "",
-        "ratings": ""
+        "price": "السعر",
+        "freeuntil": "مجاناً حت",
+        "morelinks": "روابط أخرى",
+        "supportserver": "ادعم السيرڤر ",
+        "invitebot": " أرسل دعوة للبوت",
+        "getit-browser": "احصل على اللعبة (يفتح في المتصفح)",
+        "ratings": "التقييم"
         }],
 
     "phrases":[{
-        "10webhhoks": "",
-        "cantcreatemissperms": "",
-        "missingviewchannel": "",
-        "missingwebhookperms": ""
+        "10webhhoks": "خطأ ❌ هناك  10  webhooks في هذه",
+        "cantcreatemissperms": "خطأ ❌ لا يمكنني إنشاء webhook  لهذه القناة. لا توجد صلاحيات ",
+        "missingviewchannel": "خطأ :x:  لا توجد صلاحيات في .  VIEW_CHANNEL '' أو  SEND_MESSAGES",
+        "missingwebhookperms": "خطأ ❌ ، ليس لدي صلاحيات `` MANAGE_WEBHOOKS '' في هذه القناة."
         }]
 
 }
