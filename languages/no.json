@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Pris",
+        "freeuntil": "Gratis frem til",
+        "morelinks": "Flere lenker",
+        "supportserver": "Support Server",
+        "invitebot": "Inviter botten",
+        "getit-browser": "Skaff deg det",
+        "ratings": "Vurdering"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Feil :x: Det er 10 webhooks i denne kanalen, vennligst slett en for at jeg skal kunne fungere.",
+        "cantcreatemissperms": "Feil :x: Jeg får ikke til å lage en webhook for denne kanalen. Mangler Tillatelser",
+        "missingviewchannel": "Feil :x: mangler tillatelser i {channel}. ``VIS_KANAL`` eller ``SEND_MELDINGER`",
+        "missingwebhookperms": "`Feil :x:, Jeg har ikke ``ADMINISTRER_WEBHOOKS`` tillatelse i denne kanalen.`"
+        }]
+
+}
