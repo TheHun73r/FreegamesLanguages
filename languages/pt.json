@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Preço",
+        "freeuntil": "Grátis até",
+        "morelinks": "Mais links",
+        "supportserver": "Servidor de Suporte",
+        "invitebot": "Convida o Bot",
+        "getit-browser": "Abrir no Navegador",
+        "ratings": "Classificação"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Erro ❌ Há 10/10  Webhooks neste canal, por favor apagar um para que as notificações funcionem.",
+        "cantcreatemissperms": "Erro ❌ Não se pode criar um Webhook para este canal. Permissões em falta.",
+        "missingviewchannel": "Erro ❌ Permissões em falta em {channel}. Ver_Canais ou Enviar_Mensagens",
+        "missingwebhookperms": "Erro ❌ Permissões em falta neste canal: Gerir_Webhooks [or] Erro ❌ Permissões Gerir_Webhooks em falta neste canal"
+        }]
+
+}
