@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Pris",
+        "freeuntil": "Gratis indtil",
+        "morelinks": "Flere Links",
+        "supportserver": "Support Serveren",
+        "invitebot": "Inviter botten",
+        "getit-browser": "Få spillet, åbner",
+        "ratings": "Bedømmelse"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Fejl! ❌ Der er  10 webhooks i denne kanal, venligst slet en sådan at jeg kan fungere.",
+        "cantcreatemissperms": "Fejl! ❌ Kan ikke lave en webhook i denne kanal. Mangler tilladelse(r) ",
+        "missingviewchannel": "Fejl! ❌ Mangler tilladelse(r) i {channel, dont translate}. VIEW_CHANNEL eller SEND_MESSAGES",
+        "missingwebhookperms": "Fejl! ❌, Jeg har ikke MANAGE_WEBHOOKS tilladelsen i denne kanal."
+        }]
+
+}
