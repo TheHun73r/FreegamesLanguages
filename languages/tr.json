@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Fiyat",
+        "freeuntil": "Şu Zamana Kadar Ücretsiz",
+        "morelinks": "Diğer Linkler",
+        "supportserver": "Destek Sunucusu",
+        "invitebot": "Botu Davet Et",
+        "getit-browser": "Tarayıcıdan Al",
+        "ratings": "Değerlendirme"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Hata :x: Bu kanalda zaten ``10`` tane webhook var, çalışabilmem için bir tanesini silin.",
+        "cantcreatemissperms": "Hata :x: Bu kanal için webhook oluşturamıyorum. İzinlerim eksik.",
+        "missingviewchannel": "Hata :x: kanalında izinlerim eksik. ``KANALLARI_GÖRÜNTÜLE`` yada ``MESAJ_GÖNDER``",
+        "missingwebhookperms": "Hata :x: Bu kanalda ``WEBHOOK_YÖNET`` iznine sahip değilim."
+        }]
+
+}
